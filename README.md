@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ff0000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ff0000?style=flat-square&logo=Notion&logoColor=white"/></a>
