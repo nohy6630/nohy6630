@@ -3,7 +3,7 @@
 <a href="https://climbing-gecko-79f.notion.site/1e46c615e1dc4a02a0d2fb39610570ce"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br/>
 ![nohy6630's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohy6630)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=youngjin_noh)
-### Experience
+### ✏️ Experience
 __2019.3 - 2025.2(예정)__  
 - 숭실대학교 IT대학 컴퓨터학부 전공 - 학사
 
@@ -25,7 +25,7 @@ __2019.4 - 2019.12__
 __2015.3 - 2018.2__  
 - 선린인터넷고등학교 소프트웨어과 전공
 
-### Award
+### 🏆 Award
 __2023.12 최우수상__(한국대학생IT경영학회)  
 - 한국대학생IT경영학회 큐시즘 밋업데이
 
