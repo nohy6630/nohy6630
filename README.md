@@ -1,6 +1,6 @@
 ### 👤 Portfolio & Blog
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://climbing-gecko-79f.notion.site/7df43cd38a5e4c3b8eb06ed20535dfe2)<br/>
-[![Velog Blog](https://img.shields.io/badge/Velog%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@your_username)
+[![Velog Blog](https://img.shields.io/badge/Velog%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@nohy6630)
 
 
 <br/>
