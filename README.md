@@ -1,12 +1,14 @@
-### 👤 Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://climbing-gecko-79f.notion.site/7df43cd38a5e4c3b8eb06ed20535dfe2)
+### 👤 Portfolio & Blog
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://climbing-gecko-79f.notion.site/7df43cd38a5e4c3b8eb06ed20535dfe2)<br/>
+[![Velog Blog](https://img.shields.io/badge/Velog%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@your_username)
 
-<br/><br/>
+
+<br/>
 
 ### 🛠 Tech Stacks
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Redis-D9281A?style=flat-square&logo=redis&logoColor=white"/><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-D9281A?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### ✏️ Experience
 |기간|활동|
@@ -20,7 +22,7 @@
 |2019.4 - 2019.12|선린인터넷고등학교 정규수업에 조교로 참여하여 수업 보조|
 |2015.3 - 2018.2|선린인터넷고등학교 소프트웨어과 전공|
 
-<br/><br/>
+<br/>
 
 ### 🏆 Award
 |수상일자|대회명|수상|주최기관|
@@ -42,10 +44,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/eungyeole/velog-readme-stats">
-    <img src="https://velog-readme-stats.vercel.app/api?name=nohy6630" />
-  </a>
-  <br />
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=youngjin_noh" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=nohy6630" />
